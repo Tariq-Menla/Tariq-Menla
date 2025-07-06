@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord gooselander
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like to learn about europe.
+- ⚡ About me: I like to build and stay disciplined!.
 
 <!---
 Tariq-Menla/Tariq-Menla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
