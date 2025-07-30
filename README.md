@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tariq-Menla
 - 👀 I’m interested in games,python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, html, and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord gooselander
 - 😄 Pronouns: he/him
